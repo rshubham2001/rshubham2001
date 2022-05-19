@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm R Shubham</h1>
 <h3 align="center">A passionate web developer and programmer from India</h3>
-<img aling="right"  alt="Coding" width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBjogOoMptpXNrdHgxpampyD6FBH25w_BNA&usqp=CAU">
 
 <p >align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdotcom&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdotcom" /> </p>
 
