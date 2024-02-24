@@ -3,11 +3,11 @@
 
 <p >align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdotcom&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdotcom" /> </p>
 
-- 🌱 I’m currently learning **React Native, Django**
+<!-- - 🌱 I’m currently learning **React Native, Django** -->
 
-- 👯 I’m looking to collaborate on **Web development**
+<!-- - 👯 I’m looking to collaborate on **Web development** -->
 
-- 🤝 I’m looking for help with **ReactJs**
+<!-- - 🤝 I’m looking for help with **ReactJs** -->
 
 - 📫 How to reach me **bibhuojha15@gmail.com**
 
