@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm R Shubham</h1>
 <h3 align="center">A passionate web developer and programmer from India</h3>
 
-<p >align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdotcom&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdotcom" /> </p>
+<p >align="left"> <img src="https://komarev.com/ghpvc/?username=rshubham2001&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdotcom" /> </p>
 
 <!-- - 🌱 I’m currently learning **React Native, Django** -->
 
